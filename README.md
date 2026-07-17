@@ -1,7 +1,7 @@
 # Data Warehouse Project
 
 Welcome to the **Data Warehouse Project** repository! 
-This Project demonstrates a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering. 
+This Project demonstrates a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering.
 
 ---
 ###🏗️ Data Architecture
